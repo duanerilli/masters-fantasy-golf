@@ -17,7 +17,7 @@ A live fantasy golf draft and tracking tool built for The Masters tournament, al
 
 ## 🌐 Live Site
 
-👉 [View Live App](https://your-live-url.com)  
+👉 [View Live App](https://mastersdraft.vercel.app/)  
 👉 [GitHub Repository](https://github.com/duanerilli/masters-fantasy-golf)
 
 ## 📸 Screenshots
